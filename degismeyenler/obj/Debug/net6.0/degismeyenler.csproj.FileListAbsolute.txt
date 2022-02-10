@@ -1,0 +1,15 @@
+C:\Users\Uğur\Desktop\baslangic\degismeyenler\bin\Debug\net6.0\degismeyenler.exe
+C:\Users\Uğur\Desktop\baslangic\degismeyenler\bin\Debug\net6.0\degismeyenler.deps.json
+C:\Users\Uğur\Desktop\baslangic\degismeyenler\bin\Debug\net6.0\degismeyenler.runtimeconfig.json
+C:\Users\Uğur\Desktop\baslangic\degismeyenler\bin\Debug\net6.0\degismeyenler.dll
+C:\Users\Uğur\Desktop\baslangic\degismeyenler\bin\Debug\net6.0\ref\degismeyenler.dll
+C:\Users\Uğur\Desktop\baslangic\degismeyenler\bin\Debug\net6.0\degismeyenler.pdb
+C:\Users\Uğur\Desktop\baslangic\degismeyenler\obj\Debug\net6.0\degismeyenler.csproj.AssemblyReference.cache
+C:\Users\Uğur\Desktop\baslangic\degismeyenler\obj\Debug\net6.0\degismeyenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uğur\Desktop\baslangic\degismeyenler\obj\Debug\net6.0\degismeyenler.AssemblyInfoInputs.cache
+C:\Users\Uğur\Desktop\baslangic\degismeyenler\obj\Debug\net6.0\degismeyenler.AssemblyInfo.cs
+C:\Users\Uğur\Desktop\baslangic\degismeyenler\obj\Debug\net6.0\degismeyenler.csproj.CoreCompileInputs.cache
+C:\Users\Uğur\Desktop\baslangic\degismeyenler\obj\Debug\net6.0\degismeyenler.dll
+C:\Users\Uğur\Desktop\baslangic\degismeyenler\obj\Debug\net6.0\ref\degismeyenler.dll
+C:\Users\Uğur\Desktop\baslangic\degismeyenler\obj\Debug\net6.0\degismeyenler.pdb
+C:\Users\Uğur\Desktop\baslangic\degismeyenler\obj\Debug\net6.0\degismeyenler.genruntimeconfig.cache
